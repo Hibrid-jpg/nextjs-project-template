@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup android:enabled="false"/>
+    <device-transfer android:enabled="true"/>
+    <full-backup android:enabled="false"/>
+    <include domain="sharedpref" path="."/>
+</data-extraction-rules>
